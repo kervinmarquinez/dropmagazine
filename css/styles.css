@@ -78,6 +78,7 @@ a:hover {color:var(--rosa)}
   align-items: center;
   justify-content: space-between;
   padding: 30px 15px;
+  z-index:99;
 }
 
 .cabecera__logo {height: 25px;}
