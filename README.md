@@ -1,6 +1,6 @@
 # Drop
 
-This is the final project that I have to do to finish the Web Development Master in [Gauss Multimedia](https://www.gaussmultimedia.com/). Drop has to be a online magazine and we can choose the topic of this project so I decided to create a blog related to esports. 
+This is the final project that I had to do to finish the Web Development Master in [Gauss Multimedia](https://www.gaussmultimedia.com/). Drop had to be a online magazine and we could choose the topic of this project so I decided to create a blog related to esports. 
 
 ## Table of Contents
 
