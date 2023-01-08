@@ -25,6 +25,10 @@ To pass this project there were some requirements that must been done:
 
 - Fully responsive
 
+## Example
+
+- [Click here](https://kervinmarquinez.github.io/dropmagazine/) to see the live example.
+
 ## Screenshots
 
 ![Example screenshot](./img/Screenshot1.PNG)
